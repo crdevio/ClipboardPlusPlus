@@ -1,3 +1,6 @@
+IF YOU MODIFY IT OR PUBLISH IT FOR YOUR OWN, DON'T FORGET TO GIVE ME CREDIT (as this is a MIT License)
+
+
 === Version Française ===
 
 Clipboard++ est un micro-projet que j'ai réalisé en un week-end dans le but d'apprendre Qt. Il est très simple et est contitué d'une seule feunêtre.
