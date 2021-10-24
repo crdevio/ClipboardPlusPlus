@@ -1,4 +1,3 @@
-## IF YOU MODIFY IT OR PUBLISH IT FOR YOUR OWN, DON'T FORGET TO GIVE ME CREDIT (as this is a MIT License)
 
 # Version Française 
 
